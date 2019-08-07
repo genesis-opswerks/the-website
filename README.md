@@ -1,2 +1,2 @@
-# Star Wensite
+# Star Website
 training website yeah
