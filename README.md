@@ -1,6 +1,3 @@
 # Star Website
 Obvious changes
-
-BLAH
-BLAH
-BLAH
+Repository purpose-- Blah blah
